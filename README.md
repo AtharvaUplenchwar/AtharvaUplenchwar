@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Atharva 🚀 :
-•  Data Engineering Enthusiast based in Pune 🌆<br>•  M.S. in Engineering Management with a focus on Data Analysis from Northeastern University 🎓<br>•  Former Data Analyst at Atlas Copco 🔭<br>•  Skilled in transforming complex data sets into actionable insights 📊<br>•  Passionate about crafting data-driven solutions and exploring new technologies 🚀<br><br>
+•  Data Analyst based in Pune 🌆<br>•  M.S. in Engineering Management with a focus on Data Analysis from Northeastern University 🎓<br>•  Former Data Analyst at Atlas Copco 🔭<br>•  Skilled in transforming complex data sets into actionable insights 📊<br>•  Passionate about crafting data-driven solutions and exploring new technologies 🚀<br><br>
 
 
 ## 🌐 Socials:
